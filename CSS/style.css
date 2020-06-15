@@ -1,0 +1,140 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+header {
+	width: 100%;
+	height: 550px;
+	background-image: url(../img/header.png);
+	background-size: cover;
+	color: white;
+	padding-left:100px;
+
+}
+.tourism {
+	text-align: center;
+	padding-top: 40px;
+
+
+}
+.explore-the {
+	font-size: 25px;
+	padding-top: 170px;
+	color: #d6d4d4e0;
+
+}
+.deep-forest {
+	font-size: 70px;
+
+}
+.lorem {
+	font-size: 18px;
+	width: 575px;
+	color:#d6d4d4e0;
+
+
+}
+main {
+	
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	padding-left: 100px;
+	padding-right: 100px;
+
+
+}
+.gallery {
+	font-size: 30px;
+	color:#616060;
+}
+.lorem2 {
+	font-size: 18px;
+	
+	color: #6160609e;
+	padding-left: 30px;
+	
+}
+.photo {
+
+	background-color: #2f504dd1;
+    margin: 10px;
+	background-size: cover;
+	}
+.photo1 {
+	width: 300px;
+	height: 250px;
+	background-image: url(../img/photo1.jpg);
+}
+.photo2 {
+	width: 280px;
+	height: 200px;
+	background-image: url(../img/photo2.jpg);
+}
+.photo3 {
+	width: 280px;
+	height: 200px;
+	background-image: url(../img/photo3.jpg);
+}
+
+.main-flex {
+	display: flex;
+	padding-top: 50px;
+
+}
+.green {
+	display: flex;
+	margin: auto;
+	width: 620px;
+	padding-top: 20px;
+}
+footer {
+	height: 250px;
+	width: 100%
+	background-size: cover;
+	background-color: red;
+	padding-top: 70px;
+	background-image: url(../img/footer.jpg);
+	background-size: cover;
+}
+.lorem-ipsum {
+	color: white;
+	border : 1px  solid white;
+	text-align: center;
+	width: 120px;
+	font-size: 20px;
+	padding: 3px;
+	margin-left: auto;
+	margin-right: auto;
+
+
+	
+	
+	
+}
+.footer-text {
+	color: white;
+	padding-top: 20px;
+	width: 640px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	line-height: 27px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
